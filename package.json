@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "git": "^0.1.5",
+    "graphql": "^16.6.0",
+    "react-hook-form": "^7.36.1"
+  }
+}
